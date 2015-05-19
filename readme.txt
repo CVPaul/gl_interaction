@@ -39,6 +39,11 @@ Kriging interpolate Algorithm and also a demo is include
 @ note: note texture is support now
 */
 =================================================================================================
+8. file_<gl_operation>
+=================================================================================================
+not called in any demo but include some useful functions, for example, get_n() will compute the 
+cross product of two 3d vectors.
+=================================================================================================
 Requirement
 OPenCV and OPenGL are reqiured
 Compilation：
