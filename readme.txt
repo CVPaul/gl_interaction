@@ -47,7 +47,7 @@ cross product of two 3d vectors.
 Requirement
 OPenCV and OPenGL are reqiured
 Compilation：
-in linux(unbuntu) ./makeit
+in linux(ubuntu) ./makeit
 There is some way to use CMake on Windows but I am not familiar with it if not work, a VS2013 project is put in the windows direcory
 Demo:
 uncomment the coorespoing lines in the main.cpp to have a look at the demo
